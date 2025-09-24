@@ -1,7 +1,8 @@
 /videos
 /audios
 embeddings.joblib
-
+prompt.txt
+response.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
