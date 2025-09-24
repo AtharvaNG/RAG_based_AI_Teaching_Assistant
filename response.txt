@@ -1,0 +1,11 @@
+For your question about where the box model is taught, I'd be happy to help!
+
+In our Sigma web development course, we cover the CSS box model in detail in Video 18.
+
+The concept of the box model and how it works starts around the beginning of the video. If you want to understand what the box model says and how it applies to margin, padding, and borders, watch from timestamp 315.52 seconds into the video.
+
+Additionally, at 109.92 seconds, we dive deeper into what the concept of the box model in CSS is all about. 
+
+If you'd like to see an example of the box model in action, watch as I apply styles to demonstrate how it works starting around 102.64 seconds into the video.
+
+All of this information is covered within Video 18, so feel free to jump into that video and explore the details of the CSS box model!
